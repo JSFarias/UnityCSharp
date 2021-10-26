@@ -1,0 +1,17 @@
+In java, javascript, C, C++, C#, and similar languages, you need to use an escape character to display certain characters such as new line or have " show up
+inside a string literal. They are called escape characters because they "escape" from their normal useage.
+All escape characters start with a \\ to tell the compiler that the next character should be interpreted differently than normal.
+Here are some common ones:
+  
+  \n    New line
+  \t    Tab
+  \v    Vertical Tab
+  \b    Backspace
+  \r    Carriage return
+  \f    Formfeed
+  \\    Backslash
+  \'    Single quotation mark
+  \"    Double quotation mark
+  \d    Octal
+  \xd    Hexadecimal
+  \ud    Unicode character
